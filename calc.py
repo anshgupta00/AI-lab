@@ -21,3 +21,6 @@ def calc(a,b):
     return add,sub,mul,div
 print(lst)
 print(calc(lst[0],lst[1]))
+
+
+
